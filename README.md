@@ -1,1 +1,1 @@
-# be
+# A web-based version of the classic Flappy Bird game using a combination of HTML, CSS, and JavaScript. Flappy Bird is a side-scrolling game where the player controls a bird and must navigate it through a series of obstacles by tapping or clicking to make the bird flap its wings and stay afloat
